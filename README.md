@@ -26,4 +26,4 @@ Hands-on Kubernetes labs using Minikube focused on Pods, ReplicaSets, Deployment
 - Linux command-line administration
 
 ## Screenshots
-See Screenshots for deployment verification and lab outputs.
+See Screenshots section for deployment verification and lab outputs.
