@@ -1,7 +1,7 @@
 # Kubernetes Minikube Labs
 
 ## Overview
-This repository contains hands-on Kubernetes labs focused on Minikube, Pods, ReplicaSets, Deployments, Services, and YAML-based workload management.
+Hands-on Kubernetes labs using Minikube focused on Pods, ReplicaSets, Deployments, Services, ConfigMaps, Secrets, and Persistent Volumes.
 
 ## Technologies Used
 - Kubernetes
@@ -12,31 +12,18 @@ This repository contains hands-on Kubernetes labs focused on Minikube, Pods, Rep
 - kubectl
 
 ## Labs Included
-- Pod deployment
-- ReplicaSet configuration
-- Kubernetes Deployments
-- Service configuration
-- Scaling and self-healing behavior
-- YAML workload management
+- ReplicaSet deployment
+- Deployment scaling
+- Service exposure
+- ConfigMaps and Secrets
+- Persistent Volume configuration
 
 ## Skills Demonstrated
-- Managing Kubernetes workloads
-- Deploying Pods and ReplicaSets
-- Using kubectl commands
-- Understanding container orchestration
-- Troubleshooting Kubernetes deployments
-- Working with YAML configuration files
+- Kubernetes workload management
+- YAML deployment configuration
+- Service networking
+- Cluster troubleshooting
+- Linux command-line administration
 
 ## Screenshots
-
-### Kubernetes Pod Deployment
-Add screenshot here
-
-### ReplicaSet Verification
-Add screenshot here
-
-### Deployment Scaling
-Add screenshot here
-
-## What I Learned
-This lab strengthened my understanding of Kubernetes architecture, container orchestration, workload scaling, and deployment management using Minikube and kubectl.
+See `Screenshots` for deployment verification and lab outputs.
